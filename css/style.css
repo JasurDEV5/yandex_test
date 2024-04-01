@@ -307,7 +307,7 @@ footer {
 }
 
 /* mobile res */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 480px) {
 	.header_bottom-cards {
 		display: grid;
 		grid-template-columns: repeat(2, minmax(0, 1fr));
